@@ -28,9 +28,8 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=annoeinsty&show_icons=true&theme=tokyonight)  
+## 📊 Languages
+ 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annoeinsty&layout=compact&theme=tokyonight)  
 
 ---
