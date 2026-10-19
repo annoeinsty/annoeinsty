@@ -1,6 +1,6 @@
 # Hi, I'm Annomari Vasuki Einsty 👋
 
-🚀 **Software Engineer – Backend & Systems | 2.4 YOE | Python | Java | Cloud**  
+🚀 **Software Engineer – Backend & Systems | 3.4 YOE | Python | Java | Cloud**  
 
 💻 Passionate about building **scalable, fault-tolerant systems** and simplifying complex problems through clean backend design.  
 
